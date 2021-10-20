@@ -1,5 +1,4 @@
 # roomscan
-<style type="text/css">
 <!--
  .tab { margin-left: 40px; }
 -->
